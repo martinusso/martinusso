@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Breno Martinusso! 👋
 
-<!--
-**martinusso/martinusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a brazilian entrepreneur and software developer. Since 2001, I've been learning and using a lot of technologies and languages to build software.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫  How to reach me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white)](https://github.com/martinusso)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinusso/)
+
+## ⚡ Useless stats
+
+![Martinusso's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinusso)
+![Martinusso's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinusso&layout=compact)
+
+*NOTE: Top languages does not indicate my skill level or something like that.*
