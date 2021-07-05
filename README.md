@@ -4,12 +4,12 @@ I'm a brazilian entrepreneur and software developer. Since 2001, I've been learn
 
 ## 💻 Skills & Proficiency
 
-✔ Focused on Back-End development
-✔ Fully understand of design patterns, OO, and others related concepts
-✔ Experience with agile software development practices
-✔ Principles of security and stable software design
-✔ Comfortable with Continuous Integration, Code Coverage, and Deployment services
-✔ Relational and No-Relational databases
+- Focused on Back-End development
+- Fully understand of design patterns, OO, and others related concepts
+- Experience with agile software development practices
+- Principles of security and stable software design
+- Comfortable with Continuous Integration, Code Coverage, and Deployment services
+- Relational and No-Relational databases
 
 ## 📫  How to reach me
 
