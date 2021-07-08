@@ -1,14 +1,14 @@
 # Hi there, I'm Breno Martinusso! 👋
 
-I'm a brazilian entrepreneur and software developer. Since 2001, I've been learning and using a lot of technologies and languages to build software.
+I'm a brazilian entrepreneur and software engineer. Since 2001, I've been learning and using a lot of technologies and languages to build software.
 
 ## 💻 Skills & Proficiency
 
 - Focused on Back-End development
-- Fully understand of design patterns, OO, and others related concepts
-- Experience with agile software development practices
-- Principles of security and stable software design
-- Comfortable with Continuous Integration, Code Coverage, and Deployment services
+- Fully understanding of design patterns, OO, and others related concepts
+- Experience with agile development practices
+- Principles of computer security
+- Comfortable with Code coverage, and Continuous Deployment
 - Relational and No-Relational databases
 
 ## 📫  How to reach me
