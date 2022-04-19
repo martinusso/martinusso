@@ -1,6 +1,6 @@
 # Hi there, I'm Breno Martinusso! 👋
 
-I'm a brazilian entrepreneur and software engineer. Since 2001, I've been learning and using a lot of technologies and languages to build software.
+I'm a brazilian software engineer. Since 2001, I've been learning and using a lot of technologies and languages to build software.
 
 ## 💻 Skills & Proficiency
 
