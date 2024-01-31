@@ -1,15 +1,19 @@
 # Hi there, I'm Breno Martinusso! 👋
 
-I'm a brazilian software engineer. Since 2001, I've been learning and using a lot of technologies to solve larger technical challenges.
+I'm a Brazilian software engineer with a passion to solve complex technical challenges while spearheading impactful change.
+
+Since 2001, I have adeptly mastered a diverse range of technologies and programming languages.
 
 ## 💻 Skills & Proficiency
 
-- Focused on Back-End development
-- Fully understanding of design patterns, OO, and others related concepts
-- Experience with agile development practices
-- Principles of computer security
-- Comfortable with Code coverage, and Continuous Deployment
-- Relational and No-Relational databases
+- Team Leadership
+- Specialized in Back-End development
+- Proficient in design patterns, object-oriented principles, and related concepts
+- Well-versed in agile development methodologies (Scrum, Kanban, TDD, BDD, CI, ...)
+- Adept in computer security principles
+- Experienced in Continuous Integration and Continuous Deployment
+- Skilled in monitoring and instrumentation
+- Proficient in both Relational and NoSQL databases
 
 ## 📫  How to reach me
 
